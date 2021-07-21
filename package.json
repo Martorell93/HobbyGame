@@ -1,0 +1,19 @@
+{
+  "name": "hobbygame",
+  "version": "1.0.0",
+  "description": "Repositorio de videojuegos y consolas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martorell93/HobbyGame.git"
+  },
+  "author": "Jaime Martorell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martorell93/HobbyGame/issues"
+  },
+  "homepage": "https://github.com/Martorell93/HobbyGame#readme"
+}
